@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\практическое занятие 1-13\bin\Debug\практическое занятие 1-13.exe.config
+C:\Users\student\source\repos\практическое занятие 1-13\bin\Debug\практическое занятие 1-13.exe
+C:\Users\student\source\repos\практическое занятие 1-13\bin\Debug\практическое занятие 1-13.pdb
+C:\Users\student\source\repos\практическое занятие 1-13\obj\Debug\практическое занятие 1-13.csprojAssemblyReference.cache
+C:\Users\student\source\repos\практическое занятие 1-13\obj\Debug\практическое_занятие_1_13.Form1.resources
+C:\Users\student\source\repos\практическое занятие 1-13\obj\Debug\практическое_занятие_1_13.Properties.Resources.resources
+C:\Users\student\source\repos\практическое занятие 1-13\obj\Debug\практическое занятие 1-13.csproj.GenerateResource.cache
+C:\Users\student\source\repos\практическое занятие 1-13\obj\Debug\практическое занятие 1-13.exe
+C:\Users\student\source\repos\практическое занятие 1-13\obj\Debug\практическое занятие 1-13.pdb
