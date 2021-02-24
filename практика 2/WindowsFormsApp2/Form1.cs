@@ -19,10 +19,10 @@ namespace WindowsFormsApp2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Text = "2";
+            
             // Вывод строки в многострочный редактор
             textBox2.Text = "Практическая работа №2 Соколова А.Р.";
-            textBox2.Text += Environment.NewLine + "Рассчитать значение выражения y = x ^ 2";
+            
 
         }
 
@@ -34,11 +34,10 @@ namespace WindowsFormsApp2
             textBox2.Text += Environment.NewLine +
             "При x = " + x.ToString();
             // Вычисляем арифметическое выражение
-            double y = Math.Pow(x, 2);
+            double y = (2*Math.Log(Math.Sqrt(x))-3*((x + 1)/(2*x + 3)))/(Math.Sin(2*x)* Math.Sin(2*x) + Math.Abs(Math.Exp(2*x) - 3*(x*x)));
 
             // Выводим результат в окно
-            textBox2.Text += Environment.NewLine +
-            "Результат y = " + y.ToString();
+            textBox2.Text += Environment.NewLine + "Результат y = " + y.ToString();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -47,6 +46,11 @@ namespace WindowsFormsApp2
         }
 
         private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
         }
