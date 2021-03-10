@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\практика 5\5-8\obj\Debug\5-8.csprojAssemblyReference.cache
+C:\Users\student\source\repos\практика 5\5-8\obj\Debug\_5_8.Form1.resources
+C:\Users\student\source\repos\практика 5\5-8\obj\Debug\_5_8.Properties.Resources.resources
+C:\Users\student\source\repos\практика 5\5-8\obj\Debug\5-8.csproj.GenerateResource.cache
+C:\Users\student\source\repos\практика 5\5-8\bin\Debug\5-8.exe.config
+C:\Users\student\source\repos\практика 5\5-8\bin\Debug\5-8.exe
+C:\Users\student\source\repos\практика 5\5-8\bin\Debug\5-8.pdb
+C:\Users\student\source\repos\практика 5\5-8\obj\Debug\5-8.exe
+C:\Users\student\source\repos\практика 5\5-8\obj\Debug\5-8.pdb
