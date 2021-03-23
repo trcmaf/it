@@ -1,0 +1,10 @@
+C:\Users\annav\source\repos\trcmaf\it\практика 6\6-9\bin\Debug\6-9.exe.config
+C:\Users\annav\source\repos\trcmaf\it\практика 6\6-9\bin\Debug\6-9.exe
+C:\Users\annav\source\repos\trcmaf\it\практика 6\6-9\bin\Debug\6-9.pdb
+C:\Users\annav\source\repos\trcmaf\it\практика 6\6-9\obj\Debug\6-9.csprojAssemblyReference.cache
+C:\Users\annav\source\repos\trcmaf\it\практика 6\6-9\obj\Debug\_6_9.Form1.resources
+C:\Users\annav\source\repos\trcmaf\it\практика 6\6-9\obj\Debug\_6_9.Properties.Resources.resources
+C:\Users\annav\source\repos\trcmaf\it\практика 6\6-9\obj\Debug\6-9.csproj.GenerateResource.cache
+C:\Users\annav\source\repos\trcmaf\it\практика 6\6-9\obj\Debug\6-9.csproj.CoreCompileInputs.cache
+C:\Users\annav\source\repos\trcmaf\it\практика 6\6-9\obj\Debug\6-9.exe
+C:\Users\annav\source\repos\trcmaf\it\практика 6\6-9\obj\Debug\6-9.pdb
