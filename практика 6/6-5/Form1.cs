@@ -30,8 +30,7 @@ namespace WindowsFormsApp1
       for (int i = 0; i < 15; i++)
       {
         Mas[i] = rand.Next(-50, 50);
-        richTextBox1.Text += "Mas[" + Convert.ToString(i) + "] = "
-        + Convert.ToString(Mas[i]) + Environment.NewLine;
+        richTextBox1.Text += "Mas[" + Convert.ToString(i) + "] = " + Convert.ToString(Mas[i]) + Environment.NewLine;
       }
     }
 

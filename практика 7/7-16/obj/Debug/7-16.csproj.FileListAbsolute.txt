@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\7-16\bin\Debug\7-16.exe.config
+C:\Users\student\source\repos\7-16\bin\Debug\7-16.exe
+C:\Users\student\source\repos\7-16\bin\Debug\7-16.pdb
+C:\Users\student\source\repos\7-16\obj\Debug\7-16.csprojAssemblyReference.cache
+C:\Users\student\source\repos\7-16\obj\Debug\_7_16.Form1.resources
+C:\Users\student\source\repos\7-16\obj\Debug\_7_16.Properties.Resources.resources
+C:\Users\student\source\repos\7-16\obj\Debug\7-16.csproj.GenerateResource.cache
+C:\Users\student\source\repos\7-16\obj\Debug\7-16.exe
+C:\Users\student\source\repos\7-16\obj\Debug\7-16.pdb
