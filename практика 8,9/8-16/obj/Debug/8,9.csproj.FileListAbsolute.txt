@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\практика 8,9\8,9\bin\Debug\8,9.exe.config
+C:\Users\student\source\repos\практика 8,9\8,9\bin\Debug\8,9.exe
+C:\Users\student\source\repos\практика 8,9\8,9\bin\Debug\8,9.pdb
+C:\Users\student\source\repos\практика 8,9\8,9\obj\Debug\8,9.csprojAssemblyReference.cache
+C:\Users\student\source\repos\практика 8,9\8,9\obj\Debug\_8_9.Form1.resources
+C:\Users\student\source\repos\практика 8,9\8,9\obj\Debug\_8_9.Properties.Resources.resources
+C:\Users\student\source\repos\практика 8,9\8,9\obj\Debug\8,9.csproj.GenerateResource.cache
+C:\Users\student\source\repos\практика 8,9\8,9\obj\Debug\8,9.exe
+C:\Users\student\source\repos\практика 8,9\8,9\obj\Debug\8,9.pdb

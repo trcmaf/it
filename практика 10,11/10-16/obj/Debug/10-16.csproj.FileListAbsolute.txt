@@ -1,0 +1,19 @@
+C:\Users\student\source\repos\10-16\bin\Debug\10-16.exe.config
+C:\Users\student\source\repos\10-16\bin\Debug\10-16.exe
+C:\Users\student\source\repos\10-16\bin\Debug\10-16.pdb
+C:\Users\student\source\repos\10-16\obj\Debug\10-16.csprojAssemblyReference.cache
+C:\Users\student\source\repos\10-16\obj\Debug\_10_16.Form1.resources
+C:\Users\student\source\repos\10-16\obj\Debug\_10_16.Properties.Resources.resources
+C:\Users\student\source\repos\10-16\obj\Debug\10-16.csproj.GenerateResource.cache
+C:\Users\student\source\repos\10-16\obj\Debug\10-16.exe
+C:\Users\student\source\repos\10-16\obj\Debug\10-16.pdb
+C:\Users\annav\source\repos\trcmaf\it\практика 10,11\10-16\bin\Debug\10-16.exe.config
+C:\Users\annav\source\repos\trcmaf\it\практика 10,11\10-16\bin\Debug\10-16.exe
+C:\Users\annav\source\repos\trcmaf\it\практика 10,11\10-16\bin\Debug\10-16.pdb
+C:\Users\annav\source\repos\trcmaf\it\практика 10,11\10-16\obj\Debug\10-16.csprojAssemblyReference.cache
+C:\Users\annav\source\repos\trcmaf\it\практика 10,11\10-16\obj\Debug\_10_16.Form1.resources
+C:\Users\annav\source\repos\trcmaf\it\практика 10,11\10-16\obj\Debug\_10_16.Properties.Resources.resources
+C:\Users\annav\source\repos\trcmaf\it\практика 10,11\10-16\obj\Debug\10-16.csproj.GenerateResource.cache
+C:\Users\annav\source\repos\trcmaf\it\практика 10,11\10-16\obj\Debug\10-16.csproj.CoreCompileInputs.cache
+C:\Users\annav\source\repos\trcmaf\it\практика 10,11\10-16\obj\Debug\10-16.exe
+C:\Users\annav\source\repos\trcmaf\it\практика 10,11\10-16\obj\Debug\10-16.pdb
